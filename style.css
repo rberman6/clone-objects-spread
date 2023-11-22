@@ -1,0 +1,27 @@
+
+
+img {
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#clone{
+    display: flex;
+   
+    gap: 5px;
+   
+}
+
+button {
+    margin-bottom: 15px;
+}
+.divclone {
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: solid 1px black;
+    border-radius: 5px;
+}
